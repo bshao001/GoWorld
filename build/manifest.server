@@ -1,0 +1,10 @@
+Main-Class: GoNetServer
+
+Name: GoNetServer*.class
+Sealed: true
+
+Name: gNetwork/GoNetObject.class
+Sealed: true
+
+Name: gNetUitl/GoFont.class
+Sealed: true

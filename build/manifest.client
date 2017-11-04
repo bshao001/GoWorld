@@ -1,0 +1,13 @@
+Main-Class: GoNet
+
+Name: gNetInterface/*.class
+Sealed: true
+
+Name: gNetMenu/*.class
+Sealed: true
+
+Name: gNetwork/*.class
+Sealed: true
+
+Name: gNetUtil/*.class
+Sealed: true
