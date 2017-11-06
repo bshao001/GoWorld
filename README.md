@@ -44,7 +44,7 @@ A client-server network socket based user interface for Go game, dedicated for t
   
  然后您把生成的两个JAR文件复制到上层目录就可以运行了。
  
-## TODO
+## Future Work
 什么时候开始我们都必须搞出这么个浮夸的东东来的呢？您见过几个在这里列出来的条目后来被实现了的吗？
 1. 删除该小节。
 2. 参照第一条。
